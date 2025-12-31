@@ -8,7 +8,7 @@ extern "C" __declspec(dllexport) LRESULT CALLBACK UwpHook(int code, WPARAM wPara
     return CallNextHookEx(NULL, code, wParam, lParam);
 }
 
-void bypass() {
+void bypass() { /* just say to be here lmao */
     RBX::Print(1, "Bypass module injected");
     RBX::Print(2, "Abyss is undetected btw ;3");
 }
@@ -24,4 +24,5 @@ BOOL APIENTRY DllMain(HMODULE hMod, ULONG ulReason, LPVOID) {
         break;
     }
     return TRUE;
+
 }
