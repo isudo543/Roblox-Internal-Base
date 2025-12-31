@@ -1,0 +1,8 @@
+﻿  main.cpp
+     Creating library E:\Users\julan\source\repos\printsploit\x64\Release\exploit.lib and object E:\Users\julan\source\repos\printsploit\x64\Release\exploit.exp
+  Generating code
+  5 of 33 functions (15.2%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  printsploit.vcxproj -> E:\Users\julan\source\repos\printsploit\x64\Release\exploit.dll
